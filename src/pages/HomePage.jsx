@@ -64,11 +64,11 @@ const HomePage = ({ isIOS }) => {
 
           <div className="mt-8 p-4 bg-white/80 backdrop-blur-sm rounded-lg max-w-md mx-auto border border-pink-200">
             <p className="text-pink-800 italic">
-              "Untuk pacarku yang tercinta, di hari spesialmu ini aku ingin
+              "Untuk kamu yang tercinta, di hari spesialmu ini aku ingin
               mengucapkan... Terima kasih telah menjadi cahaya dalam hidupku.
               Setiap detik bersamamu adalah anugerah."
             </p>
-            <p className="mt-4 text-right text-pink-600 font-medium">- Atik</p>
+            <p className="mt-4 text-right text-pink-600 font-medium"></p>
           </div>
         </motion.div>
 
